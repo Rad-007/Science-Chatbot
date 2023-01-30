@@ -26,7 +26,7 @@ science = wiki_data.filter(
 )
 
 
-total_doc_count=1000
+total_doc_count=50000
 
 counter = 0
 docs = []
